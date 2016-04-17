@@ -1,0 +1,14 @@
+.text-center{ text-align: center;}
+.text-right{align:right;}
+.textRed{color: red;}
+.textMaroon{color: maroon;}
+.textWhite{color: white;}
+.textBlack{color: black;}
+.center{position:relative;background-color:white;text-align:center;}
+.bgRed{background-color:red;position:absolute;}
+.button {background-color: maroon;border: none;color: blue;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer;}
+.button1 {border-radius: 50%;}
+.button2 {border-radius: 8px;}
+.point{cursor: pointer;}
+.right {right: 700px;}
+.bar{background-color: gray;color: white;position: relative;height: 30px;margin-top: 8px;margin-bottom: 8px;}
